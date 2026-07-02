@@ -9,9 +9,9 @@ This repository contains my daily learning during my Industrial Training in Arti
 - Day 3 – APIs, MCP and Transformer Architecture
 - Day 4 – Playwright, Vibe Coding & Context Engineering
 - Day 5 – Large Language Models (LLMs) and Ollama
-- Day 6 – ...
-- Day 7 – ...
-- Day 8 – ...
+- Day 6 – AWS and Docker Intro and project
+- Day 7 – RAG Pipelines Intro and project
+- Day 8 – About Physical identity Acess management 
 
 ## Author
 
